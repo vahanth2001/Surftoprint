@@ -35,7 +35,6 @@ body {
 /* SEARCH */
 .search-box {
   flex: 1;
-  position: relative;
 }
 
 .search-box input {
