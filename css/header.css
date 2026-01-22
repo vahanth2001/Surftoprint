@@ -38,6 +38,10 @@ body {
   white-space: nowrap;
 }
 
+.logo img {
+  width: 50%;
+}
+
 .logo span {
   color: #c89b6a;
 }
